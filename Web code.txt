@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZoyaLegal – CSC + Advocate Multi-Service Centre</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(to right, #0d47a1, #1976d2);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header img {
+            height: 60px;
+            margin: 10px;
+        }
+        section {
+            padding: 20px;
+            background-color: white;
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #0d47a1;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            background: #0d47a1;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/CSC_Logo.png" alt="CSC Logo">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Seal_of_Uttar_Pradesh.svg/1200px-Seal_of_Uttar_Pradesh.svg.png" alt="UP Government Logo">
+        <h1>ZoyaLegal – CSC + Advocate Multi-Service Centre</h1>
+        <p>AI-Powered Legal Solutions at Your Fingertips</p>
+        <p>📍 Husain Ganj, Lucknow | PAN India Digital Support</p>
+    </header>
+
+    <section>
+        <h2>🔹 LEGAL SERVICES | ⚖️ कानूनी सेवाएं</h2>
+        <ul>
+            <li>Legal Consultancy & Documentation – कानूनी परामर्श और दस्तावेज़ीकरण</li>
+            <li>Free Legal Aid & ADR – मुफ़्त कानूनी सहायता</li>
+            <li>Property Legal Help – भूलेख, रजिस्ट्री, म्यूटेशन</li>
+            <li>Cyber Law & IT Compliance – साइबर शिकायत, एफआईआर सहायता</li>
+            <li>Notary & International Legal – NRI सेवा, वीज़ा डॉक्युमेंट</li>
+            <li>NRI Legal Desk – उत्तराधिकार, प्रॉपर्टी विवाद</li>
+            <li>Women & Child Protection – घरेलू हिंसा, हेल्पलाइन</li>
+            <li>Court Assistance – एफिडेविट, बेल बॉन्ड</li>
+            <li>CSR & NGO Advisory – सीएसआर और एनजीओ सलाह</li>
+            <li>Legal Tech – केस डैशबोर्ड, CRM</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🔹 CSC SERVICES | 🏛️ कॉमन सर्विस सेंटर सेवाएं</h2>
+        <ul>
+            <li>Welfare Schemes – पीएम आवास, ई-श्रम, जन धन</li>
+            <li>Election – वोटर ID बनवाना / सुधार</li>
+            <li>Education – एडमिशन, स्कॉलरशिप</li>
+            <li>Banking – UPI, वॉलेट, बिल पेमेंट</li>
+            <li>Insurance – आयुष्मान भारत, क्लेम सहायता</li>
+            <li>PAN & Aadhaar – नया / अपडेट</li>
+            <li>Translation – हिंदी–अंग्रेज़ी दस्तावेज़</li>
+            <li>Women & Child CSC – जन्म प्रमाणपत्र, सहायता</li>
+            <li>Utility Hub – मोबाइल रिचार्ज, FASTag</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🔹 BUSINESS, FINANCIAL & STARTUP SUPPORT | 📊 व्यापार और टैक्स सहायता</h2>
+        <ul>
+            <li>Business Registration – प्रा. लि., GST, ROC</li>
+            <li>Income Tax – ITR, TDS, PAN/TAN</li>
+            <li>Integrated Legal + Finance – SMEs समाधान</li>
+            <li>Startup Kit @ ₹1499 – कानूनी दस्तावेज़</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🔹 DIGITAL SERVICES & BRANDING | 🌐 डिजिटल सेवाएं</h2>
+        <ul>
+            <li>Marketing – वेबसाइट, सोशल मीडिया</li>
+            <li>Internships & Skills – लीगल इंटर्नशिप</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🔹 TRAVEL & TRANSPORT SUPPORT | ✈️ यात्रा और परिवहन सेवाएं</h2>
+        <ul>
+            <li>IRCTC/Flight Booking – रेल, फ्लाइट, होटल</li>
+            <li>Transport Dept – DL, RC, टैक्स</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>🔹 SPECIAL CAMPAIGNS | 💥 विशेष अभियान</h2>
+        <ul>
+            <li>Cyber Suraksha Week – मुफ्त साइबर सहायता</li>
+            <li>Startup Seva Month – ₹1499 लीगल किट</li>
+            <li>Senior Citizen Will Week – वसीयत ड्राफ्टिंग</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>📍 Contact & Payment Info | संपर्क और भुगतान जानकारी</h2>
+        <p>Address: H.N 82/59 (104/105), Near Head Man Salon, Beside Abha Medical Store, Guru Govind Singh Marg, Safdalbagh, Lalkua, Lucknow, UP-226001</p>
+        <p>Mobile: +91-9454950104 | WhatsApp: Direct चैट उपलब्ध</p>
+        <p>UPI ID: 9454940104@ptyes</p>
+        <p>Payment Apps: PhonePe, Google Pay, Paytm | Bank Transfer: अनुरोध पर उपलब्ध</p>
+    </section>
+
+    <footer>
+        © 2025 ZoyaLegal – All Rights Reserved | Advocate Multi Services Centre | Lucknow, Uttar Pradesh
+    </footer>
+</body>
+</html>
